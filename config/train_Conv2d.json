@@ -1,0 +1,12 @@
+{
+    "outdir": "./result/Conv2d",
+    "model_type": 1,
+    "conv_ch": [64, 128],
+    "batch_size": 32,
+    "test_size": 0.1,
+    "random_seed": 0,
+    "learning_rate": 0.001,
+    "weight_decay": 0.01,
+    "num_epoch": 30,
+    "save_epoch_freq": 30
+}

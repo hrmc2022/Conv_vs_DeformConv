@@ -1,0 +1,7 @@
+{
+    "outdir": "./result/DeformConv2dv2",
+    "model_type": 3,
+    "model": "./result/DeformConv2dv2/train/ckpt/model_30.pth",
+    "conv_ch": [64, 128],
+    "batch_size": 32
+}

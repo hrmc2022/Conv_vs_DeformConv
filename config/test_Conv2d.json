@@ -1,0 +1,7 @@
+{
+    "outdir": "./result/Conv2d",
+    "model_type": 1,
+    "model": "./result/Conv2d/train/ckpt/model_30.pth",
+    "conv_ch": [64, 128],
+    "batch_size": 32
+}
